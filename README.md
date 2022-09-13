@@ -2,4 +2,4 @@
 
 ## Previsões de Doenças Cardíacas
 
-![](img_banner.png)
+![](img_banner.jpg)
