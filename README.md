@@ -1,4 +1,4 @@
-# Projeto01-Doencas-Cardiacas
+# Projeto01-Doenças-Cardíacas
 
 ## Previsões de Doenças Cardíacas
 
@@ -17,10 +17,15 @@ Portanto, como a detecção de doenças é feita por meio de exames e so temos d
 # Estratégia de Solução
 
 1° Etapa) Descrição dos dados: Procurar entender as métricas e os valores encontrados na base de dados.
+
 2° Etapa) Criação de Novas Features: Criar ou derivar características da própria base de dados para melhor descrever o fenômeno.
+
 3° Etapa) Filtragem dos dados: Vão ser tratados linhas que não correspondem ao problema de negócios, valores faltantes e anomalias dos dados.
+
 4° Etapa) Análise Exploratória: Procurar insights para compreender melhor o impacto de cada variável. 
+
 5° Etapa) Preparação de Dados: Prepare os dados para que os modelos de Machine Learning possam aprender o comportamento específico.
+
 6° Etapa) Modelagem de Machine Learning: treinamento do modelos de Machine Learning. 
 
 # 4 Principais Insights de Dados
