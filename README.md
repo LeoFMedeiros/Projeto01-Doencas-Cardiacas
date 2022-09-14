@@ -45,3 +45,20 @@ Portanto, como a detecção de doenças é feita por meio de exames e so temos d
 - 4°) Há mais casos de doenças cardíacas para quem bebem do que para quem não bebem.
 
 **FALSO** Conforme a base de dados mostra, não existe diferença significativa nessa afirmação.
+
+# Desempenho do Modelo de Aprendizado de Máquina
+
+O algoritmo com melhor performace foi o **LightGBM**
+
+#### Precisão, Recall, F1 e Accuracy
+
+Essas são as métricas obtidas do conjunto de teste.
+
+| precision | recall  | f1\-score | accuracy |
+|-----------|---------|-----------|----------|
+| 0\.7578   | 0\.6840 | 0\.7190   | 0\.7343  |
+
+
+# Resultados de Negócios
+
+Utilizando o modelo proposto, vamos conseguir acertar 73% dos casos que irão aparecer, assim, quando um modelo sugerir que tal pessoa possua doença conseguiremos agilizar todo o seu processo e pular etapas para o seu melhor atendimento. Também, vamos conseguir diminuir a quantidade de exames realizados por ter uma modelo com uma capacidade previsão boa, portanto, reduzindo a quantidade de exames realizados. 
