@@ -8,15 +8,9 @@
 
 As doenças cardiovasculares (DCV) são a causa número um de mortes no planeta. Os fatores de risco são variados: desde fumo, diabetes, hipertensão e obesidade, até poluição do ar e condições raras e negligenciadas. 
 
-<<<<<<< HEAD
-O seguinte trabalho tem o objetivo de estudar uma base de dados que contém 70 mil pessoas, tendo como parâmetros: idade, altura, peso, sexo, pressão sistólica, entre outras caractríscticas. A partir dessa análise, vamos fazer um estudo de insights para procurar fatores que aumentem as chances de se encontrar de forma preditiva pessoas mais propensas de terem doenças cardíacas. Além disso, o foco principal é a produção de um modelo de Machine Learning que, por meio de certas descrições, conseguimos 'prever' se ela é uma pessoa com risco de se ter doenças. 
+O seguinte trabalho tem o objetivo de estudar uma base de dados que contém 70 mil pessoas, tendo como parâmetros: idade, altura, peso, sexo, pressão sistólica, entre outras caractríscticas. A partir dessa análise, vamos fazer um estudo de insights para procurar fatores que aumentem as chances de se encontrar de forma preditiva pessoas mais propensas de terem doenças cardíacas. Além disso, o foco principal é a produção de um modelo de Machine Learning que, por meio de certas descrições, conseguimos 'prever' se ela é uma pessoa com risco de se ter doenças.
 
 Portanto, como a detecção de doenças é feita por meio de exames e só há duas saídas possíveis (doente ou saudável), vamos criar uma IA (inteligência artificial) que, com alguns parâmetros, conseguiremos obter sua opinião. Caso sejam obtidos ótimos resultados de precisão e acertos de inúmeros casos, vamos alcançar um ganho no tempo de processo(atendimento até o resultado do exame), e, assim, também será possível diminuir os gastos com a realização de exames, devido aos auxílios na tomada de decisão.
-=======
-O seguinte trabalho tem o objetivo de estudar uma base de dados que contem 70 mil pessoas, que possuem: idade, altura, peso, sexo, pressão sistólica, entre outras caractríscticas. Com ela vamos fazer um estudo de insights para procurar fatores que aumentem as chances de se encontrar de forma preditiva pessoas mais propensas de terem doenças cardíacas. Além disso, o foco principal é a produção de um modelo de Machine Learning que dadas certas descrições conseguimos 'prever' se ela é uma pessoa com risco de se ter doenças. 
-
-Portanto, como a detecção de doenças é feita por meio de exames e so temos duas saídas possíveis (doente ou saudável), vamos criar uma IA (inteligência artificial) que com alguns parâmetros conseguimos obter sua opinião. Caso sejam obtido ótimos resultados de precisão e acertos de inúmeros casos vamos se ter um ganho no tempo de processo(atendimento até o resultado do exame), e assim, também conseguimos diminuir os gastos com a realização de exames por se ter auxílios na tomada de decisão.
->>>>>>> c21efa9d8582ddd1d2afff0fef7ad6f70f744c88
 
 -Link da competição: https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
 
